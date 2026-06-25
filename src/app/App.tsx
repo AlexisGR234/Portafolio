@@ -46,21 +46,21 @@ const EXPERIENCE = [
     company: "Proyecto educativo",
     period: "MAYO 2026 - JUNIO 2026",
     description:
-      "Lider del proyecto de una app mobil llamada MathStack, una app para android que permite a los estudiantes universitarios, reforzar sus conocimientos matematicos, bajo la metodologia gamificacion.",
+      "Lider del proyecto de una app mobil llamada MathStack, una app para android que permite a los estudiantes universitarios, reforzar sus conocimientos matematicos, bajo la metodologia gamificacion."
   },
   {
     role: "Android Developer",
     company: "Proyectos educativo",
     period: "MARZO 2026",
     description:
-      "Desarrollo de una app para android llamda Fianza santa fe, con la finalidad de poder gestionar fianzas personales de forma segura.",
+      "Desarrollo de una app para android llamda Fianza santa fe, con la finalidad de poder gestionar fianzas personales de forma segura."
   },
   {
-    role: "Android Developer y Backend developer",
+    role: "Android Developer y Desarrollador Api Rest",
     company: "Proyecto educativo",
     period: "ABRIL 2026",
     description:
-      "Desarrollo de una app para android llamda Gestor de torneos, con la finalidad de poder gestionar torneos deportivos, ",
+      "Desarrollo de una app para android llamda Gestor de torneos, con la finalidad de poder gestionar torneos deportivos.",
   },
   {
     role: "Frontend Developer",
