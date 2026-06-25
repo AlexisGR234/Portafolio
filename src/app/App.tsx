@@ -175,6 +175,27 @@ function SobreMi() {
               código limpio y una experiencia de usuario excepcional.
             </p>
 
+            <p className="text-white/60 text-sm">
+              Contacto: <a href="mailto:alexisgraciarojas@gmail.com" className="text-red-600 hover:underline">
+                alexis.graciarojas@gmail.com
+              </a>
+              <br />
+              instagram: <a href="https://instagram.com/alexis.g.rojas.94" className="text-red-600 hover:underline">
+                @alexis.g.rojas.94
+              </a>
+              <br />
+              Facebook: <a href="https://facebook.com/Alexis GR" className="text-red-600 hover:underline">
+                /Alexis GR
+              </a>
+              <br />
+              linkedin: <a href="https://www.linkedin.com/in/alexis-garcía-rojas-5ab7713aa?utm_source=share_via&utm_content=profile&utm_medium" className="text-red-600 hover:underline">
+                /in/alexis-garcia-rojas
+              </a>
+              <br />
+              Numero de contacto: <a href="tel:+52234567890" className="text-red-600 hover:underline">
+                +52 (234) 567-890
+              </a>
+            </p>
 
             <div className="flex flex-wrap items-center gap-3 mt-4">
               <button className="flex items-center gap-2.5 px-5 py-2.5 rounded-full border border-white/20 hover:border-red-600/60 text-white/80 hover:text-white text-sm font-mono tracking-wide transition-all duration-200">
